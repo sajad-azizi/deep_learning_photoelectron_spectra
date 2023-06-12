@@ -1,2 +1,2 @@
-# deep_learning_photoelectron_spectra
+# deep learning study in photoelectron spectra
 deep learning 
